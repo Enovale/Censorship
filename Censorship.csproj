@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>Censorship</AssemblyName>
-    <Description>I'm a dumb idiot baby who cant handle dangerous objects near my face</Description>
+    <Description>My friend is a dumb idiot baby who cant handle dangerous objects near my face</Description>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>

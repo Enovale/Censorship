@@ -1,0 +1,9 @@
+{
+    "name": "Animation Censorship",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Enovale/Inscryption-Censored",
+    "description": "Disables the animation that plays when using the pliers and the Special Dagger. The perfect mod for squeamish babys.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Inscryption-5.4.1701"
+    ]
+}
